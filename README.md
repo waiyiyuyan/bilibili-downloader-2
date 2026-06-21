@@ -24,7 +24,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/waiyiyuyan/bilibili-downloader.git
+git clone https://github.com/waiyiyuyan/bilibili-downloader-2.git
 cd bilibili-downloader
 ```
 
