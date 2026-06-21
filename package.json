@@ -1,0 +1,22 @@
+{
+  "name": "bilibili-downloader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "@ffprobe-installer/ffprobe": "^2.1.2",
+    "axios": "^1.18.0",
+    "cheerio": "^1.2.0",
+    "fluent-ffmpeg": "^2.1.3",
+    "fs-extra": "^11.3.5",
+    "tough-cookie": "^6.0.1"
+  }
+}
